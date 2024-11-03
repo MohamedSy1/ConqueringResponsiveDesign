@@ -1,7 +1,11 @@
-import './App.css'
+import './index.css'
+import SquareBox from './components'
 
 function App() {
 
+  return (
+    <SquareBox />
+  )
 
 }
 
